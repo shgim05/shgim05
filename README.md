@@ -11,9 +11,8 @@
 
 <img width="581" alt="스크린샷 2024-11-21 오후 10 21 02" src="https://github.com/user-attachments/assets/9b07f415-b46c-4bbc-8a57-a130df5a4f44">
 
+오늘 저에 대한 간단한 소개를 하고자 합니다!
 #
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=프로젝트&fontSize=30)
 
 #
 
@@ -43,6 +42,9 @@
 📌 가장 좋아하는 드라마
 선재 업고 튀어
 반짝이는 워터멜론
+#
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=프로젝트&fontSize=30)
 
 #
 
