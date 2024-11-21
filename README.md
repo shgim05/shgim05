@@ -6,9 +6,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Welcome%20to%20Seoha's%20Github&fontSize=50&animation=twinkling)
 
-"Don't forget to Smile"
+ ## "Don't forget to Smile"
+ 안녕하세요 저는 에술공학부 20242174 김서하입니다.
 
-안녕하세요 저는 예술공학부 20242174 김서하입니다. 
+<img width="581" alt="스크린샷 2024-11-21 오후 10 21 02" src="https://github.com/user-attachments/assets/9b07f415-b46c-4bbc-8a57-a130df5a4f44">
+
+#
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=이력&fontSize=30)
+
+#
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=좋아하는%20것&fontSize=30)
 
@@ -27,26 +34,38 @@
 선재 업고 튀어
 반짝이는 워터멜론
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=이력&fontSize=30)
+#
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=기술&fontSize=30)
+
+엄청 잘하는 건 아니지만 현재 차근차근 배워나가고 있는 기술들입니다!
 
 기술스택
 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<a href="https://www.python.org/"></a><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
+#
 
-https://www.youtube.com/watch?v=_ZfT3M6ZKEM
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=연락처&fontSize=30)
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EB%83%A0-b5d)](https://www.youtube.com/@%EB%83%A0-b5d) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shgim2005@gmail.com)](mailto:shgim2005@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=instagram&link=https://www.instagram.com/ha05_seo.k/)](https://www.instagram.com/ha05_seo.k/)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EB%83%A0-b5d)](https://www.youtube.com/@%EB%83%A0-b5d)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shgim2005@gmail.com)](mailto:shgim2005@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=instagram&link=https://www.instagram.com/ha05_seo.k/)](https://www.instagram.com/ha05_seo.k/)
 
 [![SEoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shgim05&show_icons=true&theme=solarized-light)](https://github.com/shgim05/github-readme-stats)
 
-a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://www.python.org/"></a><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
 <a href="https://github.com/"></a><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 구조적 완성도 (25점)
 
 필수 요소 포함: 자기소개, 기술 스택, 프로젝트, 연락처 (10점)
-시각적 구성: 목록, 아이콘/이미지 사용 (15점)
-내용의 명확성 (20점)
+
+
 
 가독성 높은 문장과 정보 제공 (10점)
 논리적 흐름과 중요 정보의 배치 (10점)
@@ -57,8 +76,4 @@ a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-
 신뢰성 있는 정보 제공 (10점)
 상호작용 가능성 (15점)
 
-
 협업/참여 독려 메시지 포함 (10점)
-GitHub 연계 (10점)
-
-GitHub 통계/활동 뱃지 포함 (10점)
