@@ -59,10 +59,6 @@
 [![SEoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shgim05&show_icons=true&theme=solarized-light)](https://github.com/shgim05/github-readme-stats)
 
 
-
-<a href="https://github.com/"></a><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-구조적 완성도 (25점)
-
 필수 요소 포함: 자기소개, 기술 스택, 프로젝트, 연락처 (10점)
 
 
