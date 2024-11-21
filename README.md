@@ -13,7 +13,7 @@
 
 #
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=이력&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=프로젝트&fontSize=30)
 
 #
 
