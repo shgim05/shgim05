@@ -18,7 +18,7 @@
 |출신|안양|
 |가족|엄마,아빠, 어린 여동생|
 
-# 시간이 자날수록 저에게도 많은 변화가 생겼습니다. 오늘은 새로워진 저에 대한 간단한 소개를 하고자 합니다!
+시간이 자날수록 저에게도 많은 변화가 생겼습니다. 오늘은 새로워진 저에 대한 간단한 소개를 하고자 합니다!
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=좋아하는%20것&fontSize=30)
 
