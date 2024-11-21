@@ -42,6 +42,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=프로젝트&fontSize=30)
 
+[Download example.py](https://raw.githubusercontent.com/username/repository/branch/path/to/example.py)
+
+
 #
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=기술&fontSize=30)
@@ -53,7 +56,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shgim05)](https://github.com/shgim05/github-readme-stats)
 
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://www.w3schools.com/cpp/"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
@@ -81,7 +84,7 @@
   <img src="https://render.gitanimals.org/farms/{shgim05}"/>
 </a>
 
-필수 요소 포함: 자기소개, 기술 스택, 프로젝트,  (10점)
+필수 요소 포함:, 프로젝트,  (10점)
 
 가독성 높은 문장과 정보 제공 (10점)
 논리적 흐름과 중요 정보의 배치 (10점)
@@ -89,10 +92,3 @@
 
 기술 및 프로젝트 설명의 구체성 (10점)
 차별화된 개인적 소개와 목표 (10점)
-
-협업/참여 독려 메시지 포함 (10점)
-
-
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
