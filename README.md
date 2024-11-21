@@ -7,13 +7,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Welcome%20to%20Seoha's%20Github&fontSize=50&animation=twinkling)
 
  ## "Don't forget to Smile"
- 안녕하세요 저는 에술공학부 20242174 김서하입니다.
+ ## 안녕하세요 저는 에술공학부 20242174 김서하입니다.
 
 <img width="581" alt="스크린샷 2024-11-21 오후 10 21 02" src="https://github.com/user-attachments/assets/9b07f415-b46c-4bbc-8a57-a130df5a4f44">
 
-## 시간이 자날수록 저에게도 많은 변화가 생겼습니다. 오늘은 새로워진 저에 대한 간단한 소개를 하고자 합니다!
-
-#
+### 시간이 자날수록 저에게도 많은 변화가 생겼습니다. 오늘은 새로워진 저에 대한 간단한 소개를 하고자 합니다!
 
 #
 
@@ -23,6 +21,8 @@
 
 
 📌 최근에 가장 많이 들은 음악
+
+
 |제목|가수|링크|
 |:---:|:---:|:---:|
 |Fadeaway|보이넥스트도어|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=AL5SkIfr26A)|
@@ -46,10 +46,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=기술&fontSize=30)
 
+저는 중앙대학교 예술공학부에 입학하여 여러 기술들을 배우고 있습니다.
+
 엄청 잘하는 건 아니지만 현재 차근차근 배워나가고 있는 기술들입니다!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shgim05)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shgim05)](https://github.com/shgim05/github-readme-stats)
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <a href="https://www.python.org/"></a><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -69,8 +70,13 @@
 
 #
 
-[![SEoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shgim05&show_icons=true&theme=solarized-light)](https://github.com/shgim05/github-readme-stats)
+[![SEoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoha&show_icons=true&theme=solarized-light)](https://github.com/shgim05/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shgim05)](https://github.com/shgim05/github-profile-trophy)
+
+<a href="https://github.com/seoha's/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{shgim05}"/>
+</a>
 
 필수 요소 포함: 자기소개, 기술 스택, 프로젝트,  (10점)
 
