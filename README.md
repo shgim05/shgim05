@@ -7,23 +7,30 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Welcome%20to%20Seoha's%20Github&fontSize=50&animation=twinkling)
 
 "Don't forget to Smile"
+
 안녕하세요 저는 예술공학부 20242174 김서하입니다
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=좋아하는%20것&fontSize=30)
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=📌%20요즘%20내가%20즐겨%20듣는%20음악&fontSize=20)
+📌 최근에 가장 많이 들은 최애 음악
 |제목|가수|링크|
 |:---:|:---:|:---:|
 |Fadeaway|보이넥스트도어|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=AL5SkIfr26A)|
 |Siesta|위키미키|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/kYt8gxlthWs?si=k9quHnpMui6lzWNz)|
 |관객이 될꼐|아이유|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=_ZfT3M6ZKEM)
 
-📌취미
+📌 취미
 인터넷 쇼핑하기
 혼자서 밤에 심화영화 보기 
 
 📌 가장 좋아하는 드라마
 선재 업고 튀어
 반짝이는 워터멜론
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=이력&fontSize=30)
+
+기술스택
+
 
 
 https://www.youtube.com/watch?v=_ZfT3M6ZKEM
@@ -33,12 +40,12 @@ https://www.youtube.com/watch?v=_ZfT3M6ZKEM
 [![SEoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shgim05&show_icons=true&theme=solarized-light)](https://github.com/shgim05/github-readme-stats)
 
 
-<img src="https://img.shields.io/badge/fortran-%23734F96.svg?&style=for-the-badge&logo=fortran&logoColor=white" />
-
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 구조적 완성도 (25점)
 
 필수 요소 포함: 자기소개, 기술 스택, 프로젝트, 연락처 (10점)
-시각적 구성: 헤더, 목록, 아이콘/이미지 사용 (15점)
+시각적 구성: 목록, 아이콘/이미지 사용 (15점)
 내용의 명확성 (20점)
 
 가독성 높은 문장과 정보 제공 (10점)
