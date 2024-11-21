@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=_ZfT3M6ZKEM
 [![SEoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shgim05&show_icons=true&theme=solarized-light)](https://github.com/shgim05/github-readme-stats)
 
 
-
+<img src="https://img.shields.io/badge/fortran-%23734F96.svg?&style=for-the-badge&logo=fortran&logoColor=white" />
 
 구조적 완성도 (25점)
 
