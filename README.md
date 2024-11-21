@@ -40,7 +40,7 @@
 
 엄청 잘하는 건 아니지만 현재 차근차근 배워나가고 있는 기술들입니다!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shgim05)](https://github.com/shgim05/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shgim05)
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
