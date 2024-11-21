@@ -1,3 +1,5 @@
+## 감자도리의 Github
+
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshgim05&count_bg=%23AEDDF3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -17,6 +19,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=좋아하는%20것&fontSize=30)
 
+저는 음악 감상, 영화 관람, 쇼핑을 정말 좋아합니다! 제가 가장 좋아하는 노래, 영화, 브랜드를 몇가지 소개해 볼까 합니다!
+
+
 📌 최근에 가장 많이 들은 최애 음악
 |제목|가수|링크|
 |:---:|:---:|:---:|
@@ -24,7 +29,14 @@
 |Siesta|위키미키|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/kYt8gxlthWs?si=k9quHnpMui6lzWNz)|
 |관객이 될꼐|아이유|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=_ZfT3M6ZKEM)
 
-📌 취미
+📌 가장 즐겁게 본 영화
+|제목|장르|예고편 링크|
+|:---:|:---:|:---:|
+|극한직업|코미디,액션|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/-OvSJ4_zc2c?si=sSou3ITqgXUDfeI6)|
+|타이타닉|로멘스,재난|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/xMqz1d4eKSk?si=ED864YantSojhKeK)|
+|어벤져스 엔드게임|슈퍼히어로,SF|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/Ko2NWhXI9e8?si=rXjZ94hb30qWyxMF)
+
+📌 가장 즐겁게 본 영화
 인터넷 쇼핑하기
 혼자서 밤에 심화영화 보기 
 
