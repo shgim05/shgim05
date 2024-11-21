@@ -47,7 +47,7 @@
 
 저는 중앙대학교 예술공학부에 입학하여 여러 기술들을 배우고 있습니다.
 
-엄청 잘하는 건 아니지만 현재 차근차근 배워나가고 있는 기술들입니다!
+아주 능숙하진 않지만 현재 차근차근 배워나가고 있는 기술들입니다!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shgim05)](https://github.com/shgim05/github-readme-stats)
 
@@ -63,16 +63,16 @@
 - 아쉽게도 현재 진행하고 있는 프로젝트는 없습니다. 하지만 12월 쯤 다른 과 분들과 공모전에 나갈 준비를 하고 있습니다.(아직 진행X)
 - 또한 이번 겨울방학에 들어가면 큰 프로젝트를 하나 진행해보고자 합니다.(이건 비밀 ㅎㅎ)
 
-
 #
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=연락처&fontSize=30)
 
 저의 연락처를 소개하겠습니다.
-|전화번호|82+ 010-9720-7963|
+|연락처|82+ 010-9720-7963|
 |:---:|:---:|
 
-그 외에도 유트브, 네이버메일, 인스타그램 링크를 통해서 저에게 연락이 가능합니다.
+📞그 외에도 유트브, 구글메일, 인스타그램 링크를 통해서 저에게 연락이 가능합니다.
+- 협업 또는 아이디어를 나누고 싶다면 언제든 연락 주세요! 항상 흥미로운 기회를 탐색하고 지식을 공유하는 데 열려 있습니다.
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EB%83%A0-b5d)](https://www.youtube.com/@%EB%83%A0-b5d)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shgim2005@gmail.com)](mailto:shgim2005@gmail.com) 
@@ -91,11 +91,5 @@
   <img src="https://render.gitanimals.org/farms/{shgim05}"/>
 </a>
 
-필수 요소 포함:, 프로젝트,  (10점)
 
-가독성 높은 문장과 정보 제공 (10점)
-논리적 흐름과 중요 정보의 배치 (10점)
-전문성 (30점)
 
-기술 및 프로젝트 설명의 구체성 (10점)
-차별화된 개인적 소개와 목표 (10점)
