@@ -6,14 +6,27 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Welcome%20to%20Seoha's%20Github&fontSize=50&animation=twinkling)
 
+"Don't forget to Smile"
+안녕하세요 저는 예술공학부 20242174 김서하입니다
 
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=📌%20요즘%20내가%20즐겨%20듣는%20음악&fontSize=20)
+|제목|가수|링크|
+|:---:|:---:|:---:|
+|Fadeaway|보이넥스트도어|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=AL5SkIfr26A)|
+|Siesta|위키미키|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/kYt8gxlthWs?si=k9quHnpMui6lzWNz)|
+|관객이 될꼐|아이유|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=_ZfT3M6ZKEM)
+
+📌취미
+인터넷 쇼핑하기
+혼자서 밤에 심화영화 보기 
+
+📌 가장 좋아하는 드라마
+선재 업고 튀어
+반짝이는 워터멜론
 
 
-
-
-
-
+https://www.youtube.com/watch?v=_ZfT3M6ZKEM
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EB%83%A0-b5d)](https://www.youtube.com/@%EB%83%A0-b5d) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shgim2005@gmail.com)](mailto:shgim2005@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=instagram&link=https://www.instagram.com/ha05_seo.k/)](https://www.instagram.com/ha05_seo.k/)
 
@@ -37,7 +50,7 @@
 신뢰성 있는 정보 제공 (10점)
 상호작용 가능성 (15점)
 
-링크 작동 여부 확인 (5점)
+
 협업/참여 독려 메시지 포함 (10점)
 GitHub 연계 (10점)
 
