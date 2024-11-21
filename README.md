@@ -1,5 +1,3 @@
-## 감자도리 단발인의 Github
-
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshgim05&count_bg=%23AEDDF3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -52,6 +50,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=연락처&fontSize=30)
 
+|전화번호|82+ 010-9720-7963|
+|:---:|:---:|
+
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EB%83%A0-b5d)](https://www.youtube.com/@%EB%83%A0-b5d)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shgim2005@gmail.com)](mailto:shgim2005@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=instagram&link=https://www.instagram.com/ha05_seo.k/)](https://www.instagram.com/ha05_seo.k/)
@@ -60,8 +61,6 @@
 
 
 필수 요소 포함: 자기소개, 기술 스택, 프로젝트, 연락처 (10점)
-
-
 
 가독성 높은 문장과 정보 제공 (10점)
 논리적 흐름과 중요 정보의 배치 (10점)
