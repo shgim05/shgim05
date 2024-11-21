@@ -11,9 +11,14 @@
 
 <img width="581" alt="스크린샷 2024-11-21 오후 10 21 02" src="https://github.com/user-attachments/assets/9b07f415-b46c-4bbc-8a57-a130df5a4f44">
 
-### 시간이 자날수록 저에게도 많은 변화가 생겼습니다. 오늘은 새로워진 저에 대한 간단한 소개를 하고자 합니다!
+## 기본 정보
+|이름|김서하|
+|:---:|:---:|
+|나이|05년생|
+|출신|안양|
+|가족|엄마,아빠, 어린 여동생|
 
-#
+# 시간이 자날수록 저에게도 많은 변화가 생겼습니다. 오늘은 새로워진 저에 대한 간단한 소개를 하고자 합니다!
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=좋아하는%20것&fontSize=30)
 
@@ -36,15 +41,6 @@
 |타이타닉|로멘스,재난|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/xMqz1d4eKSk?si=ED864YantSojhKeK)|
 |어벤져스 엔드게임|슈퍼히어로,SF|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/Ko2NWhXI9e8?si=rXjZ94hb30qWyxMF)
 
-
-
-#
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=프로젝트&fontSize=30)
-
-[Download example.py](https://raw.githubusercontent.com/username/repository/branch/path/to/example.py)
-
-
 #
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=기술&fontSize=30)
@@ -63,18 +59,29 @@
 
 #
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=프로젝트&fontSize=30)
+- 아쉽게도 현재 진행하고 있는 프로젝트는 없습니다. 하지만 12월 쯤 다른 과 분들과 공모전에 나갈 준비를 하고 있습니다.(아직 진행X)
+- 또한 이번 겨울방학에 들어가면 큰 프로젝트를 하나 진행해보고자 합니다.(이건 비밀 ㅎㅎ)
+
+
+#
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=연락처&fontSize=30)
 
+저의 연락처를 소개하겠습니다.
 |전화번호|82+ 010-9720-7963|
 |:---:|:---:|
 
-📝 저는 [https://m.blog.naver.com/scarletjuna05](https://m.blog.naver.com/scarletjuna05)에 정기적으로 글을 씁니다.
+그 외에도 유트브, 네이버메일, 인스타그램 링크를 통해서 저에게 연락이 가능합니다.
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EB%83%A0-b5d)](https://www.youtube.com/@%EB%83%A0-b5d)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shgim2005@gmail.com)](mailto:shgim2005@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=instagram&link=https://www.instagram.com/ha05_seo.k/)](https://www.instagram.com/ha05_seo.k/)
 
 #
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=나의%20Github&fontSize=30)
+
+마지막으로 저의 Github 통계자료들을 보여드리며 마치겠습니다. 감사합니다:)
 
 [![SEoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoha&show_icons=true&theme=solarized-light)](https://github.com/shgim05/github-readme-stats)
 
