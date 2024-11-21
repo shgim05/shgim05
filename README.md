@@ -8,7 +8,7 @@
 
 "Don't forget to Smile"
 
-안녕하세요 저는 예술공학부 20242174 김서하입니다
+안녕하세요 저는 예술공학부 20242174 김서하입니다. 
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=좋아하는%20것&fontSize=30)
 
@@ -39,9 +39,9 @@ https://www.youtube.com/watch?v=_ZfT3M6ZKEM
 
 [![SEoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shgim05&show_icons=true&theme=solarized-light)](https://github.com/shgim05/github-readme-stats)
 
-
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://www.python.org/"></a><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<a href="https://github.com/"></a><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 구조적 완성도 (25점)
 
 필수 요소 포함: 자기소개, 기술 스택, 프로젝트, 연락처 (10점)
