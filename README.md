@@ -71,7 +71,7 @@
 |연락처|82+ 010-9720-7963|
 |:---:|:---:|
 
-📞그 외에도 유트브, 구글메일, 인스타그램 링크를 통해서 저에게 연락이 가능합니다.
+📞  그 외에도 유트브, 구글메일, 인스타그램 링크를 통해서 저에게 연락이 가능합니다.
 - 협업 또는 아이디어를 나누고 싶다면 언제든 연락 주세요! 항상 흥미로운 기회를 탐색하고 지식을 공유하는 데 열려 있습니다.
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EB%83%A0-b5d)](https://www.youtube.com/@%EB%83%A0-b5d)
