@@ -11,37 +11,33 @@
 
 <img width="581" alt="스크린샷 2024-11-21 오후 10 21 02" src="https://github.com/user-attachments/assets/9b07f415-b46c-4bbc-8a57-a130df5a4f44">
 
-오늘 저에 대한 간단한 소개를 하고자 합니다!
+## 시간이 자날수록 저에게도 많은 변화가 생겼습니다. 오늘은 새로워진 저에 대한 간단한 소개를 하고자 합니다!
+
 #
 
 #
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=좋아하는%20것&fontSize=30)
 
-저는 음악 감상, 영화 관람, 쇼핑을 정말 좋아합니다! 제가 가장 좋아하는 노래, 영화, 브랜드를 몇가지 소개해 볼까 합니다!
+저는 쇼핑, 만회보기를 정말 좋아했습니다. 그런데 요즘에는 음악 감상과 영화 관람을 즐기고 있습니다. 제가 최근에 들었던 가장 좋아하는 음악과 제 인생 영화를 몇가지 소개해 드리겠습니다.
 
 
-📌 최근에 가장 많이 들은 최애 음악
+📌 최근에 가장 많이 들은 음악
 |제목|가수|링크|
 |:---:|:---:|:---:|
 |Fadeaway|보이넥스트도어|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=AL5SkIfr26A)|
 |Siesta|위키미키|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/kYt8gxlthWs?si=k9quHnpMui6lzWNz)|
 |관객이 될꼐|아이유|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=_ZfT3M6ZKEM)
 
-📌 가장 즐겁게 본 영화
+📌 나의 인생 영화
 |제목|장르|예고편 링크|
 |:---:|:---:|:---:|
 |극한직업|코미디,액션|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/-OvSJ4_zc2c?si=sSou3ITqgXUDfeI6)|
 |타이타닉|로멘스,재난|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/xMqz1d4eKSk?si=ED864YantSojhKeK)|
 |어벤져스 엔드게임|슈퍼히어로,SF|[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/Ko2NWhXI9e8?si=rXjZ94hb30qWyxMF)
 
-📌 가장 즐겁게 본 영화
-인터넷 쇼핑하기
-혼자서 밤에 심화영화 보기 
 
-📌 가장 좋아하는 드라마
-선재 업고 튀어
-반짝이는 워터멜론
+
 #
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=프로젝트&fontSize=30)
@@ -71,10 +67,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shgim2005@gmail.com)](mailto:shgim2005@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=instagram&link=https://www.instagram.com/ha05_seo.k/)](https://www.instagram.com/ha05_seo.k/)
 
+#
+
 [![SEoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shgim05&show_icons=true&theme=solarized-light)](https://github.com/shgim05/github-readme-stats)
 
 
-필수 요소 포함: 자기소개, 기술 스택, 프로젝트, 연락처 (10점)
+필수 요소 포함: 자기소개, 기술 스택, 프로젝트,  (10점)
 
 가독성 높은 문장과 정보 제공 (10점)
 논리적 흐름과 중요 정보의 배치 (10점)
@@ -82,7 +80,5 @@
 
 기술 및 프로젝트 설명의 구체성 (10점)
 차별화된 개인적 소개와 목표 (10점)
-신뢰성 있는 정보 제공 (10점)
-상호작용 가능성 (15점)
 
 협업/참여 독려 메시지 포함 (10점)
