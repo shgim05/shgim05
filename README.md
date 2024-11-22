@@ -7,7 +7,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Welcome%20to%20Seoha's%20Github&fontSize=50&animation=twinkling)
 
  ## "Don't forget to Smile"
- ## 안녕하세요 저는 에술공학부 20242174 김서하입니다.
+ ## 안녕하세요 저는 에술공학부 김서하입니다.
 
 <img width="581" alt="스크린샷 2024-11-21 오후 10 21 02" src="https://github.com/user-attachments/assets/9b07f415-b46c-4bbc-8a57-a130df5a4f44">
 
@@ -67,11 +67,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=연락처&fontSize=30)
 
-저의 연락처를 소개하겠습니다.
-|연락처|82+ 010-9720-7963|
-|:---:|:---:|
-
-📞  그 외에도 유트브, 구글메일, 인스타그램 링크를 통해서 저에게 연락이 가능합니다.
+📞 저의 연락수단을 소개하겠습니다.
+	유트브, 구글메일, 인스타그램 링크를 통해서 저에게 연락이 가능합니다.
 - 협업 또는 아이디어를 나누고 싶다면 언제든 연락 주세요! 항상 흥미로운 기회를 탐색하고 지식을 공유하는 데 열려 있습니다.
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EB%83%A0-b5d)](https://www.youtube.com/@%EB%83%A0-b5d)
